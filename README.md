@@ -42,3 +42,6 @@ Login to AD > Managed Service Accounts OU > Right-click on **provAgentgMSA** > *
 Click on Add.
 
 **NOTE**: For passwords to be changed immediately, Minimum password age must be set to 0
+
+### Configure account permissions for Microsoft Entra Connect
+https://learn.microsoft.com/en-us/entra/identity/authentication/tutorial-enable-sspr-writeback#configure-password-writeback
